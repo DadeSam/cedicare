@@ -1,0 +1,12 @@
+.form-group{
+display: block;
+margin-top: 10px;
+padding: 5px;
+}
+
+.form-holder{
+    width: 200px;
+    height: 300px;
+    margin: 0 auto;
+    background-color: aquamarine;
+}
